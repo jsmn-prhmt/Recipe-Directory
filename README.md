@@ -3,7 +3,7 @@ A simple recipe application to create and search recipes.
 Other functionalities include color-theme selector & dark/light mode using context API and Reducers.
 
 
-add connecting to Firebase db.
+add connecting to Firebase.
 
 
 # Getting Started with Create React App
