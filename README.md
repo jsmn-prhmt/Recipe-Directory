@@ -3,6 +3,9 @@ A simple recipe application to create and search recipes.
 Other functionalities include color-theme selector & dark/light mode using context API and Reducers.
 
 
+add connecting to Firebase db.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
