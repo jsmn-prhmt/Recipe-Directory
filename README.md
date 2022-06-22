@@ -1,5 +1,5 @@
 # Recipe Directory
-A simple recipe application to create and search recipes. 
+A simple recipe application to create and search recipes. Containing list of recipes, with detail component for each recipe.  
 Other functionalities include color-theme selector & dark/light mode using context API and Reducers.
 
 
