@@ -3,4 +3,4 @@ Other functionalities include color-theme selector and dark/light mode using con
 
 Done with Firebase.
 
-Demo:
+Demo: https://recipe-dircetory-app.netlify.app
